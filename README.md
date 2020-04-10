@@ -1,2 +1,0 @@
-# Imperial-Guard
-Discord Bot
